@@ -25,14 +25,15 @@ ex.휴대폰 가격 / 전자제품(노트북,tv 등)
 - 공정한 가격을 소비자에게 제공
 - 
 
-## 기능소개
-- 
-- 
-- 
-- 
-
 ## 블록체인 미적용시 발생되는 상황
 ![1](https://user-images.githubusercontent.com/35838706/44033136-641eabcc-9f44-11e8-9a4f-266a15035de6.png)
 
 ## 블록체인 적용시 긍정적인 상황
 ![2](https://user-images.githubusercontent.com/35838706/44033149-6b61b9c4-9f44-11e8-8186-6def0582ea52.png)
+
+
+## 기능소개
+- 
+- 
+- 
+- 
