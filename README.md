@@ -15,7 +15,7 @@ ex.휴대폰 가격 / 전자제품(노트북,tv 등)
 - 상품의 가격을 투명하게 공개하여 소비자와 판매자가 공정한 거래를 할 수 있도록 돕고자 합니다.
 ![default](https://user-images.githubusercontent.com/35838706/44032951-be3f96b2-9f43-11e8-89d5-c516eb5cd25c.PNG)
 
-- 
+
 ## Goal 
 - 공정성 : 공정성 있는 거래
 - 투명성 : blockchain을 이용하여 투명성있는 결제 가능
